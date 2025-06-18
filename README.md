@@ -1,4 +1,4 @@
-# 🗺️ Big Data Geospatial Analysis: Health and Transportation Accessibility in Cibinong, Indonesia
+# 🗺️ Geospatial Network Analysis of Health Accessibility in Cibinong, Indonesia 
 
 This project explores spatial accessibility to healthcare facilities in Cibinong, West Java, Indonesia using geospatial data from **OpenStreetMap (OSM)** and analysis tools such as **OSMNX**, **NetworkX**, and **GeoPandas**.
 
